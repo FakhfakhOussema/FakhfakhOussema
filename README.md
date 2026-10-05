@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @FakhfakhOussema
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Computer Science
+Full-Stack Developer | WordPress & PrestaShop | CRM Systems | Mobile Apps
+Building web & mobile solutions — WordPress plugins, PrestaShop e-commerce, CRM/ERP systems, and cross-platform mobile apps.
 
 
 <!---
